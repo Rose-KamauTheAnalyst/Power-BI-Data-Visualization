@@ -6,11 +6,11 @@ The company collected data on customer demographics, purchasing history, and oth
 
 ## Requirement
 
-You are required to work with this data and visualize the following metrics.
+Required to work with this data and visualize the following metrics.
 
-Total number of customers.
-The total number of orders received.
-Total quantities ordered. 
-Total Sales
-Orders by State
-Visualize across Categories and sub-categories.
+1) Total number of customers.
+2) The total number of orders received.
+3) Total quantities ordered. 
+4) Total Sales
+5) Orders by State
+6) Visualize across Categories and sub-categories.
